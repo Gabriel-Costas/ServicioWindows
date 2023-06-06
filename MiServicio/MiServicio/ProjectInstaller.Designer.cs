@@ -40,8 +40,8 @@
             // serviceInstaller1
             // 
             this.serviceInstaller1.Description = "Acepta peticiones de hora y fecha actuales";
-            this.serviceInstaller1.DisplayName = "ServicioGabriel";
-            this.serviceInstaller1.ServiceName = "MiServicio";
+            this.serviceInstaller1.DisplayName = "PracticaServicio";
+            this.serviceInstaller1.ServiceName = "PracticaServicio";
             // 
             // ProjectInstaller
             // 
