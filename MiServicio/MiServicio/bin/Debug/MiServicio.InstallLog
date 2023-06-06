@@ -79,3 +79,172 @@ Los parámetros afectados son:
    logtoconsole = 
    logfile = C:\Users\Usuario\Desktop\MiServicio (2)\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
    assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Desinstalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Quitando el origen de EventLog MiServicio.
+Se está quitando el servicio MiServicio del sistema...
+El servicio MiServicio se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+Creando el origen de EventLog MiServicio en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen MiServicio.
+Instalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+Creando el origen de EventLog MiServicio en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen MiServicio.
+Instalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+Creando el origen de EventLog MiServicio en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen MiServicio.
+Instalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+Creando el origen de EventLog MiServicio en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen MiServicio.
+Instalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+Creando el origen de EventLog MiServicio en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen MiServicio.
+Instalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+Creando el origen de EventLog MiServicio en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\ServicioWindows\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen MiServicio.
+Instalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+Creando el origen de EventLog MiServicio en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen MiServicio.
+Instalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+Creando el origen de EventLog MiServicio en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen MiServicio.
+Desinstalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Quitando el origen de EventLog MiServicio.
+Advertencia: el origen MiServicio no está registrado en el equipo local.
+Se está quitando el servicio MiServicio del sistema...
+El servicio MiServicio se ha quitado correctamente del sistema.
+Desinstalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Quitando el origen de EventLog MiServicio.
+Advertencia: el origen MiServicio no está registrado en el equipo local.
+Se está quitando el servicio MiServicio del sistema...
+El servicio MiServicio se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+Creando el origen de EventLog MiServicio en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen MiServicio.
+Instalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+Creando el origen de EventLog MiServicio en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Restaurando el registro de eventos al estado anterior para el origen MiServicio.
+Instalando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+El servicio MiServicio se ha instalado correctamente.
+Creando el origen de EventLog MiServicio en el registro Application...
+Confirmando ensamblado 'C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Usuario\Desktop\MiServicio (2)\PracticaServicios\MiServicio\MiServicio\bin\Debug\MiServicio.exe
