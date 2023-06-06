@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.exe
+Instalando el servicio MiServicio...
+El servicio MiServicio se ha instalado correctamente.
+Creando el origen de EventLog MiServicio en el registro Application...
+Confirmando ensamblado 'C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.InstallLog
+   assemblypath = C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.exe

@@ -1,0 +1,21 @@
+C:\Users\Gabriel\source\repos\MiServicio\MiServicio\bin\Debug\MiServicio.exe.config
+C:\Users\Gabriel\source\repos\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+C:\Users\Gabriel\source\repos\MiServicio\MiServicio\bin\Debug\MiServicio.pdb
+C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.exe
+C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.pdb
+C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.ProjectInstaller.resources
+C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.Service1.resources
+C:\Users\Gabriel\source\repos\MiServicio\MiServicio\obj\Debug\MiServicio.csproj.GenerateResource.cache
+E:\Downloads\MiServicio (2)\MiServicio\MiServicio\bin\Debug\MiServicio.exe.config
+E:\Downloads\MiServicio (2)\MiServicio\MiServicio\bin\Debug\MiServicio.exe
+E:\Downloads\MiServicio (2)\MiServicio\MiServicio\bin\Debug\MiServicio.pdb
+E:\Downloads\MiServicio (2)\MiServicio\MiServicio\obj\Debug\MiServicio.csproj.AssemblyReference.cache
+E:\Downloads\MiServicio (2)\MiServicio\MiServicio\obj\Debug\MiServicio.ProjectInstaller.resources
+E:\Downloads\MiServicio (2)\MiServicio\MiServicio\obj\Debug\MiServicio.Service1.resources
+E:\Downloads\MiServicio (2)\MiServicio\MiServicio\obj\Debug\MiServicio.csproj.GenerateResource.cache
+E:\Downloads\MiServicio (2)\MiServicio\MiServicio\obj\Debug\MiServicio.csproj.CoreCompileInputs.cache
+E:\Downloads\MiServicio (2)\MiServicio\MiServicio\obj\Debug\MiServicio.exe
+E:\Downloads\MiServicio (2)\MiServicio\MiServicio\obj\Debug\MiServicio.pdb
